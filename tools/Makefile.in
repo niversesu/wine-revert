@@ -1,6 +1,0 @@
-PROGRAMS = \
-	make_xftmpl
-
-SOURCES = \
-	make_xftmpl.c \
-	wineapploader.in

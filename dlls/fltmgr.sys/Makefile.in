@@ -1,6 +1,0 @@
-MODULE    = fltmgr.sys
-EXTRADLLFLAGS = -Wl,--subsystem,native
-
-SOURCES = \
-	fltmgr.sys.spec \
-	main.c
